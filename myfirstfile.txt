@@ -1,2 +1,3 @@
 Hello this is my first line before stating.
 This is the second line - edited when the file already exists in staging.
+editing the commit file.
